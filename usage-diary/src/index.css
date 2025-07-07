@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-[#fdf6ee] text-[#3b2f2f];
+  font-family: 'Inter', sans-serif;
+}
+/* input, button {
+  @apply focus:outline-none;
+} */
